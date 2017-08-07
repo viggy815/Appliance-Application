@@ -1,0 +1,11 @@
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\David_Vignero_P4.vbprojResolveAssemblyReference.cache
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\David_Vignero_P4.vbproj.GenerateResource.Cache
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+C:\Users\viggy\Documents\Visual Studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.P4.resources
